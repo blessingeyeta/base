@@ -1,3 +1,5 @@
+money changed
+
 # Backbone.declarative
 
 A Backbone plugin that adds declarative model and collection event binding to Backbone Views.
